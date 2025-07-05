@@ -22,7 +22,7 @@ This Power BI dashboard analyzes Google's stock data from February 2013 to early
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]("Screenshot 2025-07-03 071312.png")
+![Dashboard Screenshot]("Screenshot 2025-07-05 220834.png")
 
 ---
 
@@ -47,8 +47,8 @@ This Power BI dashboard analyzes Google's stock data from February 2013 to early
 | File | Description |
 |------|-------------|
 | `GoogleDash.pbix` | Complete Power BI dashboard |
-| `Screenshot 2025-07-03 071157.png` | Screenshot of the dashboard |
-| `Screenshot 2025-07-03 071312.png` | Custom Google-branded background (optional) |
+| `Screenshot 2025-07-05 220834.png` | Screenshot of the dashboard |
+| `Screenshot 2025-07-05 220834.png` | Custom Google-branded background (optional) |
 
 ---
 
